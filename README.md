@@ -18,7 +18,7 @@ This is a Discord bot that retrieves tweets from influential Twitter accounts an
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/root-Manas/twitter-discord-bot.git
+   git clone https://github.com/root-Manas/Tweecord.git
    
 2. cd tweecord
    
